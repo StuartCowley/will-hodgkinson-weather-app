@@ -1,0 +1,9 @@
+.forecast-summaries {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.forecast-summary__icon {
+  font-size: 30px;
+}

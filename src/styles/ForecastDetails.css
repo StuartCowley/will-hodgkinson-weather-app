@@ -1,0 +1,9 @@
+.forecast-details {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.forecast-details__date {
+  font-weight: bold;
+  font-size: 20px;
+}
